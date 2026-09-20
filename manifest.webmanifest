@@ -1,0 +1,17 @@
+{
+  "name": "Practice Time",
+  "short_name": "Practice Time",
+  "description": "Daily practice list for kids. Collect a star for every practice completed. / Codzienna lista ćwiczeń dla dzieci.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0F3FA",
+  "theme_color": "#F0F3FA",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
