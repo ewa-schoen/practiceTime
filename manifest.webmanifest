@@ -1,6 +1,6 @@
 {
   "name": "Practice Time",
-  "short_name": "Practice Time",
+  "short_name": "practiceTime",
   "description": "Daily practice list for kids. Collect a star for every practice completed. / Codzienna lista ćwiczeń dla dzieci.",
   "id": "./",
   "start_url": "./",
